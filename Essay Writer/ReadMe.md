@@ -1,6 +1,9 @@
 # Multi-Agent Essay Writer
 
 # Demo
+
+[![Watch the video](https://img.youtube.com/vi/HCcrmzxNo-s/0.jpg)](https://www.youtube.com/watch?v=HCcrmzxNo-s)
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/HCcrmzxNo-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
