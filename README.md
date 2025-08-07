@@ -21,7 +21,7 @@ This repository contains implementations of AI agents built with LangGraph, cove
 
 - Python 3.8+
 - OpenAI API key (or other LLM provider)
-- Travily
+- Tavily
 - Optional: Docker for persistent storage examples
 
 ### Installation
